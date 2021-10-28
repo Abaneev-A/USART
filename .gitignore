@@ -1,0 +1,16 @@
+main.atsln
+
+uart/Debug/makedep.mk
+.vs/main/v14/.atsuo
+uart/Debug/Makefile
+uart/Debug/test.d
+uart/Debug/test.o
+uart/Debug/uart.eep
+uart/Debug/uart.elf
+uart/Debug/uart.hex
+uart/Debug/uart.lss
+uart/Debug/usart1.o
+uart/Debug/usart1.d
+uart/Debug/uart.srec
+uart/Debug/uart.map
+uart/uart.componentinfo.xml
